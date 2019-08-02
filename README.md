@@ -1,4 +1,18 @@
-# Django Pretty Printed
+# Tutorial: Use Django to Create a Todo List App
+
+## Introdução
+
+Este app de **lista de tarefas** foi construído a partir de um tutorial do canal do [Pretty Printed](https://prettyprinted.com/) no YouTube. É um app simples que adiciona, completa e remove tarefas, e também as ordena em pilha (*First In*, *First Out*). 
+
+* Ele será aprimorado com algumas novas funcionalidades e um layout mais clean
+* Ele também servirá de base para outros apps parecidos que construirei usando Django
+
+
+
+## Instalação
+
+
+
 
 
 ## GIFs:
