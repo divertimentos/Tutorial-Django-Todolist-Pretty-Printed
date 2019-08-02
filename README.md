@@ -7,15 +7,7 @@ Este app de **lista de tarefas** foi construído a partir de um tutorial do cana
 * Ele será aprimorado com algumas novas funcionalidades e um layout mais clean
 * Ele também servirá de base para outros apps parecidos que construirei usando Django
 
-
-
-## Instalação
-
-
-
-
-
-## GIFs:
+## Screenshots:
 
 ### Adicionando tarefas
 
